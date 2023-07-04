@@ -5,6 +5,11 @@ DOWNLOAD URL
 
 Compiled file is here: https://github.com/julienarcin/email-extractor/blob/master/builds/email-extractor.phar
 
+DEMO
+========
+
+[![Demo](https://cdn.loom.com/sessions/thumbnails/a2887178a01e4f4db1390785a4f6cd12-with-play.gif)](https://www.loom.com/share/a2887178a01e4f4db1390785a4f6cd12)
+
 SYNOPSIS
 ========
 
