@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     /*
     |--------------------------------------------------------------------------
     | Default Command
@@ -13,7 +12,8 @@ return [
     |
     */
 
-    'default' => NunoMaduro\LaravelConsoleSummary\SummaryCommand::class,
+    // 'default' => NunoMaduro\LaravelConsoleSummary\SummaryCommand::class,
+    'default' => \App\Commands\ExtractEmails::class,
 
     /*
     |--------------------------------------------------------------------------
@@ -79,5 +79,4 @@ return [
     'remove' => [
         // ..
     ],
-
 ];
