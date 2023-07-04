@@ -1,5 +1,10 @@
 # Email Extractor (by Scrap.io)
 
+DOWNLOAD URL
+========
+
+Compiled file is here: https://github.com/julienarcin/email-extractor/blob/master/builds/email-extractor.phar
+
 SYNOPSIS
 ========
 
